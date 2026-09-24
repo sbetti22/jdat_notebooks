@@ -5,7 +5,6 @@ numpy>=1.25.2
 pandas>=2.1.0
 photutils>=2.1.0
 matplotlib>=3.7.2
-#space-phot>=0.2.5
-space-phot @ git+https://github.com/sbetti22/space_phot.git
+space_phot @ git+https://github.com/jpierel14/space_phot@main
 stsci.skypac >= 1.0.12
 stpsf>=2.2.0
